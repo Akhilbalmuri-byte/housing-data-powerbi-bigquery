@@ -14,8 +14,6 @@ This Power BI dashboard connects to **Google BigQuery** to analyze housing marke
 - Google BigQuery
 - Data Modeling, DAX
 
-## 📸 Screenshot
-*(Add a screenshot here later if needed)*
 
 ## 👤 Author
 Akhil 
